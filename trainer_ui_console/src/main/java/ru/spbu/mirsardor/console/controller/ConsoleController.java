@@ -1,4 +1,4 @@
-package ru.spbu.mirsardor.controller;
+package ru.spbu.mirsardor.console.controller;
 
 import org.springframework.stereotype.Component;
 import ru.spbu.mirsardor.domain.model.OpenQuestionCard;
