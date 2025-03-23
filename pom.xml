@@ -15,6 +15,7 @@
     <module>trainer_domain</module>
     <module>trainer_in_memory</module>
     <module>trainer_ui_console</module>
+    <module>trainer_ui_swing</module>
   </modules>
 
   <properties>
